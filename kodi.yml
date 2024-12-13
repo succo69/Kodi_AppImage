@@ -15,7 +15,7 @@ AppDir:
     arch: amd64
     sources:
       - sourceline: 'deb [trusted=yes] http://archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse'
-      - sourceline: 'deb [trusted=yes] https://ppa.launchpadcontent.net/team-xbmc/ppa/ubuntu focal main'
+      - sourceline: 'deb [trusted=yes] https://ppa.launchpadcontent.net/team-xbmc/xbmc-nightly/ubuntu focal main'
       - sourceline: 'deb [trusted=yes] http://archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse'
 
     include:
